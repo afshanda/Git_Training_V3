@@ -1,3 +1,1 @@
 This is Develop file 2
-
-This is Git Revert file 2.
